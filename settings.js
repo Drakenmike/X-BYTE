@@ -42,7 +42,7 @@ LOGO: process.env.LOGO || `https://raw.githubusercontent.com/HyHamza/HyHamza/mai
 COMMAND_TYPE: process.env.COMMAND_TYPE || 'button' ,
 ANTI_DELETE : process.env.ANTI_DELETE || true ,
 // BLOCK_COUNTRY_PREFIX : process.env.BLOCK_COUNTRY_PREFIX || "1",
-BOT_DELETE_TIME : process.env.BOT_DELETE_TIME || '7',
+BOT_DELETE_TIME : process.env.BOT_DELETE_TIME || '8',
 SECONDS_MINUTES_DAYS : process.env.SECONDS_MINUTES_DAYS || "days",
 DELETEMSGSENDTO : process.env.DELETEMSGSENDTO === undefined ? '' : process.env.DELETEMSGSENDTO,
   
